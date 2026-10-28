@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fce03e7f-80cc-4d41-9071-a43d6ae08d7f" />## Hi there 👋
+## Hi there 👋
 
 Mình là **MeoLanhManh**. Chào mừng bạn đến với trang cá nhân của mình!
 
