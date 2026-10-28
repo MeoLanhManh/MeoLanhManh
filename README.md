@@ -1,4 +1,4 @@
-## Hi there 👋
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fce03e7f-80cc-4d41-9071-a43d6ae08d7f" />## Hi there 👋
 
 Mình là **MeoLanhManh**. Chào mừng bạn đến với trang cá nhân của mình!
 
@@ -10,7 +10,7 @@ Mình là **MeoLanhManh**. Chào mừng bạn đến với trang cá nhân của
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MeoLanhManh&theme=dark&hide_border=false" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=MeoLanhManh&theme=dark&hide_border=false&refresh=1" alt="GitHub streak" />
 </p>
 
 ## 📈 Contribution Activity
