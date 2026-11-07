@@ -5,11 +5,11 @@ Mình là **MeoLanhManh**. Chào mừng bạn đến với trang cá nhân của
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeoLanhManh&show_icons=true&hide_border=false&bg_color=151515&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&ring_color=ffffff&border_color=e4e2e2&border_radius=6&count_private=true&include_all_commits=true&hide_rank=false&rank_icon=github" alt="GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MeoLanhManh&show_icons=true&bg_color=151515&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&ring_color=ffffff&border_color=e4e2e2&border_radius=6&count_private=true&include_all_commits=true" alt="GitHub stats" />
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=MeoLanhManh&theme=dark&background=151515&border=e4e2e2&stroke=ffffff&ring=FB8C00&fire=FB8C00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FB8C00&sideLabels=ffffff&dates=9f9f9f&border_radius=6&hide_border=false&refresh=1" alt="GitHub streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MeoLanhManh&layout=compact&bg_color=151515&title_color=ffffff&text_color=9f9f9f&border_color=e4e2e2&border_radius=6&langs_count=6" alt="Top languages" />
 </p>
 
 <p align="left">
